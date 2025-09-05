@@ -1,0 +1,6 @@
+
+data
+data_cleaned/*
+__pycache__
+analysis_results.json
+refined_data.json
