@@ -1,6 +1,6 @@
-# Merchant Analytics
+# Merchant Data Refinement and Analytics
 
-A comprehensive analytics system for merchant data analysis and reporting.
+Data refinement and analytics for merchant data analysis and reporting.
 
 ## Overview
 
